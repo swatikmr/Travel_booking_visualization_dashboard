@@ -100,5 +100,5 @@ The dashboard includes interactive filters and drill-down capabilities:
 
 *Dashboard created using Microsoft Power BI with data visualization best practices*
 
-**Download the pbix file to view the dashboard in PowerBi Desktop*
+**Download the pbix file to view the dashboard in PowerBI Desktop*
 
